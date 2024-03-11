@@ -1,1 +1,1 @@
-2D fighter game for my English class final project. The game uses characters from two of the stories we read, and is set in our classroom. A document containing the backstory/lore was emailed to the class.
+2D fighter game for my junior year English class final project. The game uses characters from two of the stories we read, and is set in our classroom. A document containing the backstory/lore was emailed to the class.
